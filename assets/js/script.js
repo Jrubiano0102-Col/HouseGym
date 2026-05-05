@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'popup-suplementacion': {
       icon: '💊',
       title: 'Suplementación',
-      img: 'assets/images/suplementos.png',
+      img: 'assets/images/suplementos.jpg',
       desc: 'Potencia tus resultados con nuestra asesoría en suplementación deportiva. Contamos con una amplia variedad de productos de las mejores marcas: proteínas, creatina, aminoácidos, pre-entrenos y más. Nuestros entrenadores te guiarán para elegir el suplemento ideal según tus objetivos y necesidades.'
     },
     'popup-clases': {
